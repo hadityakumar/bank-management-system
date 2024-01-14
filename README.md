@@ -1,5 +1,5 @@
 # bank-management-system
-##Features
+## Features
 1) Create accounts
 <br>
 2) Fetch details
